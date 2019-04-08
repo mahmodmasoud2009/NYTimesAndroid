@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="msg_generic_server_down">Generic server down</string>
+    <string name="msg_validate_Connection">Please check the internet connection</string>
+    <string name="msg_generic_service_problem">Please contact support team</string>
+</resources>
