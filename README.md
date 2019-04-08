@@ -11,9 +11,9 @@ NyTimes is an simple application created by mahmod masoud it contains the folowi
 
 * We use recyclerview to display news from NYTimes api 
 
-* the source code is writed uiing clean object oriented structre and with standard naming convention and scope for the variables 
+* the source code is written using clean object oriented structure and with standard naming convention and scope for the variables 
 
-* and finally you can downlaod the source code and test it using test unit you need or open it using android studio 
+* and finally you can downlaod the source code and test it by open project using android studio 
 
 
 thanks and regards
